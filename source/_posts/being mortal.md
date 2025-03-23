@@ -1,6 +1,6 @@
 ---
   title: 读《最好的告别》随笔
-  pubDate: 2024-05-20
+  date: 2024-05-20
   categories: 
   description: '虽说标题为随笔，但大部分是我读时随手记录下来的一些文字'
 ---

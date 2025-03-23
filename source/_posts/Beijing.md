@@ -1,6 +1,6 @@
 ---
   title: 北京小记
-  pubDate: 2024-07-2
+  date: 2024-07-2
   categories: 
   description: '闲来无事出去晃晃'
 ---
